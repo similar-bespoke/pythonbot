@@ -1,317 +1,317 @@
 {
     "AAVE": {
-        "native": 268.11,
+        "native": 266.92,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 201.8573,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 201.0575,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "AERO": {
-        "native": 0.8037,
+        "native": 0.8053,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.6051,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.6066,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "AR": {
-        "native": 6.81,
+        "native": 6.78,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 5.1272,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 5.107,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "BTC": {
-        "native": 115178.3,
+        "native": 114896.45,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 86716.5903,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 86545.751,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "LINK": {
-        "native": 17.0,
+        "native": 16.9,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 12.7991,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 12.7299,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "ATOM": {
-        "native": 4.284,
+        "native": 4.254,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 3.2254,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 3.2043,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "CRV": {
-        "native": 0.9359,
+        "native": 0.9331,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.7046,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.7029,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "DEGEN": {
         "native": 0.0035,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.0027,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.0026,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "DOGE": {
-        "native": 0.2064,
+        "native": 0.2052,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.1554,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.1546,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "ETH": {
-        "native": 3680.93,
+        "native": 3675.78,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 2771.3354,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 2768.7813,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "ENS": {
-        "native": 26.83,
+        "native": 26.55,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 20.2,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 19.9988,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "LDO": {
-        "native": 0.944,
+        "native": 0.936,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.7107,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.705,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "LQTY": {
-        "native": 0.9897,
+        "native": 0.9843,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.7451,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.7414,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "LUSD": {
         "native": 1.0031,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.7552,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.7556,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "OP": {
-        "native": 0.713,
+        "native": 0.703,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.5368,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.5295,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "POL": {
-        "native": 0.2097,
+        "native": 0.2085,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.1579,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.1571,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "SOL": {
-        "native": 167.73,
+        "native": 166.63,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 126.2822,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 125.514,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "SUI": {
-        "native": 3.5972,
+        "native": 3.5383,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 2.7083,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 2.6652,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "USDT": {
-        "native": 1.0001,
+        "native": 0.9999,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.753,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.7532,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "RUNE": {
-        "native": 1.335,
+        "native": 1.331,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 1.0051,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 1.0026,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "USDC": {
         "native": 0.9998,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.7527,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.7531,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "WLD": {
-        "native": 1.002,
+        "native": 0.992,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.7544,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.7472,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "BANK": {
         "native": 0.0004,
         "currency": "USD",
-        "fx_rate": 0.7529,
+        "fx_rate": 0.7532,
         "converted": 0.0003,
-        "last_updated": "2025-08-04 18:00:13"
+        "last_updated": "2025-08-04 19:00:13"
     },
     "COW": {
-        "native": 0.3629,
+        "native": 0.3607,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.2732,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.2717,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "DEEP": {
-        "native": 0.1442,
+        "native": 0.143,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.1085,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.1077,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "SCF": {
-        "native": 0.0064,
+        "native": 0.0063,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.0048,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.0047,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "TCY": {
         "native": 0.1978,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 0.1489,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 0.149,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "TRUF": {
         "native": 0.0207,
         "currency": "USD",
-        "fx_rate": 0.7529,
+        "fx_rate": 0.7532,
         "converted": 0.0156,
-        "last_updated": "2025-08-04 18:00:13"
+        "last_updated": "2025-08-04 19:00:13"
     },
     "VVV": {
-        "native": 2.62,
+        "native": 2.63,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 1.9726,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 1.981,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "WSTETH": {
-        "native": 4456.57,
+        "native": 4446.14,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 3355.307,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 3349.055,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "COIN": {
-        "native": 318.28,
+        "native": 316.87,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 239.6298,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 238.6823,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "MELI": {
-        "native": 2407.245,
+        "native": 2392.14,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 1812.3907,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 1801.8795,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "NET": {
-        "native": 210.96,
+        "native": 209.68,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 158.8297,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 157.9415,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "SHOP": {
-        "native": 125.16,
+        "native": 124.53,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 94.2317,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 93.8022,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "TSLA": {
-        "native": 308.4,
+        "native": 309.7,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 232.1913,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 233.2815,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "URNM": {
-        "native": 46.06,
+        "native": 46.3,
         "currency": "USD",
-        "fx_rate": 0.7529,
-        "converted": 34.6781,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.7532,
+        "converted": 34.8755,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "SMT": {
         "native": 1082.0,
         "currency": "GBP",
         "fx_rate": 1.0,
         "converted": 1082.0,
-        "last_updated": "2025-08-04 18:00:13"
+        "last_updated": "2025-08-04 19:00:13"
     },
     "SXGC": {
         "native": 4.77,
         "currency": "CAD",
-        "fx_rate": 0.5461,
-        "converted": 2.6049,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.546,
+        "converted": 2.6044,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "U.UN": {
         "native": 22.71,
         "currency": "CAD",
-        "fx_rate": 0.5461,
-        "converted": 12.4019,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.546,
+        "converted": 12.3997,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "WBIT": {
         "native": 23.746,
         "currency": "EUR",
-        "fx_rate": 0.8713,
-        "converted": 20.6904,
-        "last_updated": "2025-08-04 18:00:13"
+        "fx_rate": 0.8712,
+        "converted": 20.6875,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "USD/GBP": {
-        "native": 0.7529,
+        "native": 0.7532,
         "currency": "GBP",
         "fx_rate": 1.0,
-        "converted": 0.7529,
-        "last_updated": "2025-08-04 18:00:13"
+        "converted": 0.7532,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "CAD/GBP": {
-        "native": 0.5461,
+        "native": 0.546,
         "currency": "GBP",
         "fx_rate": 1.0,
-        "converted": 0.5461,
-        "last_updated": "2025-08-04 18:00:13"
+        "converted": 0.546,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "AUD/GBP": {
         "native": 0.4865,
         "currency": "GBP",
         "fx_rate": 1.0,
         "converted": 0.4865,
-        "last_updated": "2025-08-04 18:00:13"
+        "last_updated": "2025-08-04 19:00:13"
     },
     "EUR/GBP": {
-        "native": 0.8713,
+        "native": 0.8712,
         "currency": "GBP",
         "fx_rate": 1.0,
-        "converted": 0.8713,
-        "last_updated": "2025-08-04 18:00:13"
+        "converted": 0.8712,
+        "last_updated": "2025-08-04 19:00:13"
     },
     "CASH": {
         "native": 1.0,
         "currency": "GBP",
         "fx_rate": 1.0,
         "converted": 1.0,
-        "last_updated": "2025-08-04 18:00:13"
+        "last_updated": "2025-08-04 19:00:13"
     }
 }
